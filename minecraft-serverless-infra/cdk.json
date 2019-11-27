@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/minecraft-serverless-infra.ts"
+}
