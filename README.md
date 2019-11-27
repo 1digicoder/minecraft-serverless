@@ -1,0 +1,2 @@
+# minecraft-serverless
+Minecraft automation
