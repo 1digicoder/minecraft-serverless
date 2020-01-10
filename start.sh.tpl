@@ -14,4 +14,4 @@ if [ ! -e eula.txt ]; then
   echo "eula=true" >> eula.txt
 fi
 
-java -Xms${MEMORY} -Xmx${MEMORY} -jar ../minecraft___VERSION___server.jar 
+java -Xms${MEMORY} -Xmx${MEMORY} -jar ../minecraft_server.__VERSION__.jar 
